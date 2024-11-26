@@ -83,6 +83,16 @@
       ]
     }
   ],
+  "versions": [
+    {
+      "name": "English",
+      "locale": "en",
+    },
+    {
+      "name": "Español",
+      "locale": "es"
+    }
+  ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
     "github": "https://github.com/mintlify",
