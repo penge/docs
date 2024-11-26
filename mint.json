@@ -28,22 +28,26 @@
   "tabs": [
     {
       "name": "API Reference",
+      "version": "English",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
       "name": "Documentation",
+      "version": "English",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
       "name": "Community",
+      "version": "English",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
+      "version": "English",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
@@ -51,6 +55,7 @@
   "navigation": [
     {
       "group": "Get Started",
+      "version": "English",
       "pages": [
         "introduction",
         "quickstart",
@@ -59,24 +64,38 @@
     },
     {
       "group": "Essentials",
-      "version": "en",
+      "version": "English",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "en/essentials/markdown",
+        "en/essentials/code",
+        "en/essentials/images",
+        "en/essentials/settings",
+        "en/essentials/navigation",
+        "en/essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "Esenciales",
+      "version": "Español",
+      "pages": [
+        "es/essentials/markdown",
+        "es/essentials/code",
+        "es/essentials/images",
+        "es/essentials/settings",
+        "es/essentials/navigation",
+        "es/essentials/reusable-snippets"
       ]
     },
     {
       "group": "API Documentation",
+      "version": "English",
       "pages": [
         "api-reference/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
+      "version": "English",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
@@ -87,7 +106,7 @@
   "versions": [
     {
       "name": "English",
-      "locale": "en",
+      "locale": "en"
     },
     {
       "name": "Español",
